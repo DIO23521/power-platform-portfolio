@@ -13,3 +13,8 @@ Skills:
 - Data connection
 - Forms
 - Gallery
+
+New features:
+- view applications
+- edit
+- navigate between screens
