@@ -18,3 +18,5 @@ New features:
 - view applications
 - edit
 - navigate between screens
+- Automatic notification when a request is created via Power Automate.
+- Different consequence logic depending on priority
