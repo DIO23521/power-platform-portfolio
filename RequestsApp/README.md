@@ -1,22 +1,24 @@
 Project: Requests App (Day 1)
 
 What it does:
-- Creates tickets
+- Creates requests
 - Stores in the Dataverse
-- Displays a list
+- Displays a list of requests
+- Edit requests
+- View all details about requests
+- Sends notification depending on priority
 
 Stack:
 - Power Apps (canvas)
 - Dataverse
+- Power Automate (Cloud flow)
 
-Skills:
-- Data connection
-- Forms
-- Gallery
-
-New features:
-- view applications
-- edit
+Features:
 - navigate between screens
-- Automatic notification when a request is created via Power Automate.
-- Different consequence logic depending on priority
+
+Added:
+- New visual style
+- Validation of required fields
+- Error handling
+- User notifications
+- OnSuccess/OnFailure logic
